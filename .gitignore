@@ -1,0 +1,10 @@
+# Xcode
+
+# Build generated
+build/
+
+# Derived data
+DerivedData/
+
+# User specific
+*.xcuserstate
